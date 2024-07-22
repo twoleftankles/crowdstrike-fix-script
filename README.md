@@ -1,4 +1,4 @@
-This script will output the logs to the Desktop for any local user to verify the removal of the files. I created a system service to auto run this as soon as the bootable USB loads it runs the script and set up ssh access in the event the script fails.
+This script will output the logs to the Desktop for any local user to verify the removal of the files. I created a system service to auto run this as soon as the bootable USB loads.
 
 IM VERY AWARE MICROSOFT RELEASED A TOOL.
 
